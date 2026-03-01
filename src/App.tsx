@@ -56,7 +56,7 @@ const App = () => {
           </div>
           {(data && (
             <div className="grid grid-cols-1 justify-center items-start gap-4 px-8 w-full pb-4">
-              {data.gems.map((gem: Shared.Gem, i: number) => (
+              {data.gems.map((gem: Shared.Gem) => (
                 <div
                   className="grid grid-cols-[auto_1fr_auto] items-center gap-2 pb-2 bg-[#252525] rounded-2xl p-2"
                   key={gem.name}
