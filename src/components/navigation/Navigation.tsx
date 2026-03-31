@@ -50,9 +50,9 @@ const Poetools = () => {
       >
         <div className="bg-[#1e1e1e] border-2 max-w-120 p-4 text-[#f7f7f7] rounded-2xl border-[#3f3f3f]">
           <div className="text-center mb-6">
-            <h1 className="text-4xl text-center">POE_Tools</h1>
+            <h1 className="text-4xl text-center">poe_tools</h1>
             <span className="opacity-50 text-center text-sm">
-              Path of Exile quick and simple tools
+              Simple tools for Path of Exile
             </span>
             <a href="https://github.com/maciejszaman/poetools">
               <p>github</p>
@@ -72,9 +72,9 @@ const Poetools = () => {
               </div>
             </div>
           </Link>
-          <Link to="/offhand" className="hover:underline transition-all">
-            <div className="p-4 gap-4 flex items-center border-2 border-text/50 border-shadow-[]">
-              <img src="https://www.poewiki.net/images/3/37/Offering_to_the_Goddess_inventory_icon.png" />
+          <Link to="/offhand" className="">
+            <div className="p-4 gap-4 flex items-center rounded-2xl bg-[#303030] border border-[#3f3f3f] mb-4">
+              <img src="https://www.poewiki.net/images/7/7f/Facetor%27s_Lens_inventory_icon.png" />
               <div className="flex flex-col">
                 <span>Offhand gems helper</span>
                 <span className="opacity-50 text-sm">

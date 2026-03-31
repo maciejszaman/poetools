@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import * as Shared from "../../shared/SharedTypes";
 import ChaosOrb from "../Icons/ChaosOrb";
+import { Link } from "react-router";
 
 const Divinefont = () => {
   const [data, setData] = useState<Shared.GemsData | null>(null);
@@ -29,24 +30,18 @@ const Divinefont = () => {
               />
               <h1 className="text-4xl">Divine Font helper</h1>
             </div>
-            <div className="group2 flex bg-surface px-4 py-2 items-center gap-4">
-              <a
-                href="https://github.com/maciejszaman"
+            <div className="group2 flex justify-between bg-surface px-4 py-2 items-center gap-4">
+              <Link
+                to="/"
                 className="hover:brightness-125 hover:underline transition-all opacity-50"
               >
-                maciejszaman
-              </a>
+                ← back
+              </Link>
               <a
                 href="https://github.com/maciejszaman/poetools"
                 className="hover:brightness-125 hover:underline transition-all opacity-50"
               >
                 github
-              </a>
-              <a
-                href="https://github.com/maciejszaman/poetools/blob/master/README.md"
-                className="hover:brightness-125 hover:underline transition-all opacity-50"
-              >
-                help
               </a>
             </div>
           </div>
