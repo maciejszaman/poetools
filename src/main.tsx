@@ -8,7 +8,7 @@ import Navigation from "./components/navigation/Navigation.tsx";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/poe/">
       <Routes>
         <Route path="/*" element={<Navigation />} />
         <Route path="/poe/divinefont" element={<Divinefont />} />
