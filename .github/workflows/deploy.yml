@@ -32,14 +32,14 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "24"
           cache: "pnpm"
-
-      - name: Fetch gem data
-        run: node fetch-gems.mjs
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
+
+      - name: Fetch gem data
+        run: node fetch-gems.mjs
 
       - name: Build
         run: pnpm run build

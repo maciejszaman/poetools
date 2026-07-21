@@ -39,7 +39,7 @@ const Divinefont = () => {
             <div className="group flex flex-col items-center gap-4 px-4 py-2">
               <div className="w-full flex justify-center">
                 <img
-                  src="public/Logo.png"
+                  src="/Logo.png"
                   className="w-1/2"
                   alt="Current path of exile league logo"
                 />
