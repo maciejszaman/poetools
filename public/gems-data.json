@@ -1,56 +1,56 @@
 {
-  "league": "Keepers",
-  "lastUpdated": "2026-03-01T04:33:23.329Z",
+  "league": "Standard",
+  "lastUpdated": "2026-07-21T00:34:19.599Z",
   "gems": [
     {
-      "name": "Firestorm of Pelting",
-      "chaosValue": 329.8,
-      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GaXJlc3Rvcm0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjE0fV0/ac42f6b194/Firestorm.png"
+      "name": "Ethereal Knives of the Massacre",
+      "chaosValue": 68948,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FdGhlcmVhbEtuaXZlcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6MTB9XQ/b708279dd5/EtherealKnives.png"
     },
     {
-      "name": "Ground Slam of Earthshaking",
-      "chaosValue": 323.8,
-      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Hcm91bmRzbGFtIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjo1fV0/eb48a25784/Groundslam.png"
+      "name": "Glacial Cascade of the Fissure",
+      "chaosValue": 31579,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VcGhlYXZhbCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6MTN9XQ/84a7302fa4/Upheaval.png"
     },
     {
-      "name": "Cyclone of Tumult",
-      "chaosValue": 285,
-      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DeWNsb25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjo5fV0/c2e959cfba/Cyclone.png"
+      "name": "Animate Guardian of Smiting",
+      "chaosValue": 17544,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BbmltYXRlQXJtb3VyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjo1fV0/65673dac47/AnimateArmour.png"
     },
     {
-      "name": "Detonate Dead of Scavenging",
-      "chaosValue": 275,
-      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZXRvbmF0ZURlYWQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjl9XQ/ce6c88958c/DetonateDead.png"
+      "name": "Lightning Tendrils of Escalation",
+      "chaosValue": 17544,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodGVuaW5nVG91Y2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjE0fV0/5bce26a397/LighteningTouch.png"
     },
     {
-      "name": "Penance Brand of Dissipation",
-      "chaosValue": 250,
-      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QZW5hbmNlQnJhbmRHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjEzfV0/a0d9631880/PenanceBrandGem.png"
-    },
-    {
-      "name": "Kinetic Blast of Clustering",
-      "chaosValue": 209.7,
-      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DbHVzdGVyQnVyc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjEzfV0/4fcc032863/ClusterBurst.png"
+      "name": "Cleave of Rage",
+      "chaosValue": 17544,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DbGVhdmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjV9XQ/48d223a640/Cleave.png"
     },
     {
       "name": "Frostblink of Wintry Blast",
-      "chaosValue": 198,
+      "chaosValue": 17544,
       "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdGJsaW5rU2tpbGxHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjEzfV0/e6977ed1a4/FrostblinkSkillGem.png"
     },
     {
-      "name": "Elemental Hit of the Spectrum",
-      "chaosValue": 142.5,
-      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FbGVtZW50YWxoaXQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjl9XQ/00d78f19d4/Elementalhit.png"
-    },
-    {
-      "name": "Poisonous Concoction of Bouncing",
-      "chaosValue": 117,
-      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Qb2lzb25vdXNDb25jb2N0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjo5fV0/125fe1e7b6/PoisonousConcoction.png"
+      "name": "Kinetic Blast of Clustering",
+      "chaosValue": 15088,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DbHVzdGVyQnVyc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjEzfV0/4fcc032863/ClusterBurst.png"
     },
     {
       "name": "Summon Stone Golem of Safeguarding",
-      "chaosValue": 100,
+      "chaosValue": 10526,
       "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Sb2NrR29sZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjZ9XQ/d7a7ac4f62/RockGolem.png"
+    },
+    {
+      "name": "Lacerate of Butchering",
+      "chaosValue": 8772,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Eb3VibGVTbGFzaCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6OX1d/8440460326/DoubleSlash.png"
+    },
+    {
+      "name": "Righteous Fire of Arcane Devotion",
+      "chaosValue": 7281,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SaWdodGVvdXNGaXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjoxM31d/c5e70b8417/RighteousFire.png"
     }
   ]
 }

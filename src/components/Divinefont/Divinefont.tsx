@@ -21,15 +21,7 @@ const Divinefont = () => {
     <main className="w-screen min-h-screen bg-[url(https://web.poecdn.com/protected/image/promo/ascendancy/videobg.jpg?key=TR2LmzMpyv-AZFIOQFS60A)] bg-cover bg-center bg-no-repeat">
       <section className="w-full min-h-screen bg-black/75 flex flex-col items-center justify-center gap-4">
         <section className="max-w-150 w-full flex flex-col items-center justify-center gap-4 text-text">
-          <div className="bg-base border-2 w-full border-text">
-            <div className="group flex items-center gap-4 px-4 py-2">
-              <img
-                className="h-20 w-20"
-                src="https://www.poewiki.net/images/3/37/Offering_to_the_Goddess_inventory_icon.png"
-                alt="Offering to the goddess"
-              />
-              <h1 className="text-4xl">Divine Font helper</h1>
-            </div>
+          <div className="bg-base border-2 w-full border-text mb-4">
             <div className="group2 flex justify-between bg-surface px-4 py-2 items-center gap-4">
               <Link
                 to="/"
@@ -44,17 +36,23 @@ const Divinefont = () => {
                 github
               </a>
             </div>
-          </div>
-          <div className="bg-base w-full border-2 border-text">
-            <div className="py-2 px-4">
-              <p className="text-2xl">Most expensive gems:</p>
-              <h3 className="opacity-50 tracking-widest">
-                Updated{" "}
-                {data?.lastUpdated
-                  ? new Date(data.lastUpdated).toLocaleString()
-                  : "never"}
-              </h3>
+            <div className="group flex flex-col items-center gap-4 px-4 py-2">
+              <div className="w-full flex justify-center">
+                <img
+                  src="public/Logo.png"
+                  className="w-1/2"
+                  alt="Current path of exile league logo"
+                />
+              </div>
+
+              <div className="py-2 px-4">
+                <p className="text-2xl">Most expensive transfigured gems:</p>
+                <h3 className="opacity-50 tracking-widest">
+                  {`Updated: ${data?.lastUpdated ? new Date(data.lastUpdated).toLocaleString() : "never"} (${data?.league})`}
+                </h3>
+              </div>
             </div>
+
             <div className="h-0.5 w-full bg-text mb-4"></div>
             {(data && (
               <div className="grid grid-cols-1 justify-center items-start gap-4 w-full pb-4">
