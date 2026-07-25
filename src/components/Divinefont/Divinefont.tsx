@@ -48,7 +48,7 @@ const Divinefont = () => {
               <div className="py-2 px-4">
                 <p className="text-2xl">Most expensive transfigured gems:</p>
                 <h3 className="opacity-50 tracking-widest">
-                  {`Updated: ${data?.lastUpdated ? new Date(data.lastUpdated).toLocaleString() : "never"} (${data?.league})`}
+                  {`Updated: ${data?.lastUpdated ? new Date(data.lastUpdated).toLocaleString() : "never"}`}
                 </h3>
               </div>
             </div>
