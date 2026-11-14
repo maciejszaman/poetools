@@ -49,7 +49,7 @@ async function main() {
   const league = argLeague ?? await getCurrentLeague()
 
   const API_URL =
-    `https://poe.ninja/poe1/api/economy/stash/current/item/overview?league=Allflame&type=SkillGem`
+    `https://poe.ninja/poe1/api/economy/stash/current/item/overview?league=Covens&type=SkillGem`
 
   const res = await fetch(API_URL)
 
