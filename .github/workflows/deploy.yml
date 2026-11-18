@@ -1,4 +1,4 @@
-name: Fetch Gem Data & Deploy
+name: Fetch Gem & Viscera Data & Deploy
 
 on:
   schedule:
@@ -38,14 +38,14 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      - name: Fetch gem data
+      - name: Fetch gem data, viscera data and league logo
         run: node fetch-gems.mjs
 
       - name: Build
         run: pnpm run build
 
-      - name: Copy gems data to dist
-        run: cp public/gems-data.json dist/gems-data.json
+      - name: Copy data to dist
+        run: cp public/*-data.json dist/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

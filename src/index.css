@@ -19,3 +19,11 @@
   --color-accent:  #A27B5C;
   --color-text:    #DCD7C9;
 }
+
+/* Viscera calculator: dark gray with a purple tint, after Covens of Umbra */
+.theme-covens {
+  --color-base:    #1E1B24;
+  --color-surface: #2B2733;
+  --color-accent:  #A68BD9;
+  --color-text:    #DDD6E8;
+}

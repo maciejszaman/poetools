@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 
 public/gems-data.json
+public/viscera-data.json

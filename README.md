@@ -23,6 +23,18 @@ Made by fetching `poe.ninja/api`, filtering for transfigured gems and sorting by
 
 Updated every 6 hours
 
+#### Viscera calculator:
+
+Which bosses drop the most valuable <a href="https://poedb.tw/us/Viscera">Viscera</a> (Covens league), split into tabs for map bosses, pinnacle bosses (including conquerors, guardians and T17 bosses) and campaign bosses. Maps and campaign zones are ranked by the price of their bosses' viscera for the Lesser, Normal or Greater tier; pinnacle bosses list every possible drop with its price.
+
+Prices come from `poe.ninja/api`, drop sources are scraped from poedb. If poedb can't be reached, the last scrape saved in `viscera-sources.json` is used.
+
+Updated every 6 hours
+
+#### League logo:
+
+The logo on top of the tools is the current expansion's logo, looked up on <a href="https://www.poewiki.net/">poewiki</a> on every update and saved as `public/Logo.png`.
+
 ## Usage
 
 Go to https://maciejszaman.github.io/poetools/#/,<br>

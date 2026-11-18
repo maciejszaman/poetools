@@ -72,13 +72,17 @@ const Poetools = () => {
               </div>
             </div>
           </Link>
-          <Link to="/offhand" className="">
+          <Link to="/viscera" className="hover:brightness-125 transition-all">
             <div className="p-4 gap-4 flex items-center rounded-2xl bg-[#303030] border border-[#3f3f3f] mb-4">
-              <img src="https://www.poewiki.net/images/7/7f/Facetor%27s_Lens_inventory_icon.png" />
+              <img
+                src="https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvVmlzY2VyYS9QaW5uYWNsZUFuZE1hcEJvc3Nlcy9WaXNjZXJhQXVndXJ5TGVhZ3VlQm9zcyIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/f242d0b2ca/VisceraAuguryLeagueBoss.png"
+                alt="Coven Queen's Crown"
+                className="h-19.5 w-19.5 object-contain"
+              />
               <div className="flex flex-col">
-                <span>Offhand gems helper</span>
+                <span>Viscera calculator</span>
                 <span className="opacity-50 text-sm">
-                  Equip your offhand setup for max profitability
+                  See which maps and bosses drop the most valuable viscera
                 </span>
               </div>
             </div>

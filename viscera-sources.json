@@ -1,0 +1,2996 @@
+[
+  {
+    "name": "Scorched Arm",
+    "icon": "VisceraFireFury",
+    "category": "Act1",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraFireFury.webp",
+    "drops": [
+      "Act 1, Fire Fury, The Coast",
+      "Megaera, Crater"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% chance to Ignite"
+      ],
+      "normal": [
+        "(20-30)% chance to Ignite"
+      ],
+      "greater": [
+        "Ignites you inflict deal Damage (10-15)% Faster"
+      ]
+    }
+  },
+  {
+    "name": "Severed Rhoa Head",
+    "icon": "VisceraRhoaHead",
+    "category": "Act1",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraRhoaHead.webp",
+    "drops": [
+      "Act 1, Oozeback Bloom, The Mud Flats",
+      "Drought-Maddened Rhoa, Arid Lake"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% increased Chaos Damage"
+      ],
+      "normal": [
+        "(20-30)% increased Chaos Damage"
+      ],
+      "greater": [
+        "Every second, inflict Withered on Enemies within 6 metres for 5 seconds"
+      ]
+    }
+  },
+  {
+    "name": "Sea Witch's Tentacle",
+    "icon": "VisceraTentacleLeg",
+    "category": "Act1",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraTentacleLeg.webp",
+    "drops": [
+      "Act 1, Brood Princess, The Submerged Passage"
+    ],
+    "mods": {
+      "lesser": [
+        "Minions deal (10-15)% increased Damage"
+      ],
+      "normal": [
+        "Minions deal (20-30)% increased Damage"
+      ],
+      "greater": [
+        "Minions have (8-12)% chance to deal Double Damage"
+      ]
+    }
+  },
+  {
+    "name": "Crustacean's Claw",
+    "icon": "VisceraClaw1",
+    "category": "Act1",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraClaw1.webp",
+    "drops": [
+      "Act 1, The Dweller of the Deep, The Flooded Depths"
+    ],
+    "mods": {
+      "lesser": [
+        "Adds (2-4) to (5-7) Physical Damage to Attacks"
+      ],
+      "normal": [
+        "Adds (8-12) to (15-18) Physical Damage to Attacks"
+      ],
+      "greater": [
+        "(10-12)% more Maximum Physical Attack Damage"
+      ]
+    }
+  },
+  {
+    "name": "Totemic Visage",
+    "icon": "VisceraTikiTotem",
+    "category": "Act1",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraTikiTotem.webp",
+    "drops": [
+      "Act 1, Kuduku, the False God, The Ledge",
+      "Poporo, the Highest Spire, Plateau"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% chance to Shock"
+      ],
+      "normal": [
+        "(20-30)% chance to Shock"
+      ],
+      "greater": [
+        "(10-12)% more Maximum Lightning Damage"
+      ]
+    }
+  },
+  {
+    "name": "Skeletal Archer's Arm",
+    "icon": "VisceraSkeletonHand",
+    "category": "Act1",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraSkeletonHand.webp",
+    "drops": [
+      "Act 1, Ironpoint the Forsaken, The Climb",
+      "Steelpoint the Avenger, Graveyard"
+    ],
+    "mods": {
+      "lesser": [
+        "Projectiles deal (8-12)% increased Damage with Hits and Ailments for each Enemy Pierced"
+      ],
+      "normal": [
+        "Projectiles deal (15-20)% increased Damage with Hits and Ailments for each Enemy Pierced"
+      ],
+      "greater": [
+        "Projectiles Pierce (2-3) additional Targets"
+      ]
+    }
+  },
+  {
+    "name": "Skeletal Warrior's Leg",
+    "icon": "VisceraSkeletonFoot",
+    "category": "Act1",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraSkeletonFoot.webp",
+    "drops": [
+      "Act 1, Chatters, The Lower Prison",
+      "Champion of Frost, Graveyard"
+    ],
+    "mods": {
+      "lesser": [
+        "You and Allies within 5 metres deal 8 to 12 additional Cold Damage"
+      ],
+      "normal": [
+        "You and Allies within 5 metres deal 25 to 40 additional Cold Damage"
+      ],
+      "greater": [
+        "You and Allies within 5 metres deal 50 to 75 additional Cold Damage"
+      ]
+    }
+  },
+  {
+    "name": "Warden's Arm",
+    "icon": "VisceraBrute1",
+    "category": "Act1",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraBrute1.webp",
+    "drops": [
+      "Act 1, Brutus, Lord Incarcerator, The Upper Prison",
+      "Penitentiary Incarcerator, Dungeon"
+    ],
+    "mods": {
+      "lesser": [
+        "+(30-50) to maximum Life"
+      ],
+      "normal": [
+        "+(60-80) to maximum Life"
+      ],
+      "greater": [
+        "(5-7)% more Maximum Life"
+      ]
+    }
+  },
+  {
+    "name": "Goatman's Horn",
+    "icon": "VisceraGoatHorn",
+    "category": "Act1",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraGoatHorn.webp",
+    "drops": [
+      "Act 1, Ungulath, Prisoner's Gate"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-12)% increased Area of Effect"
+      ],
+      "normal": [
+        "(15-20)% increased Area of Effect"
+      ],
+      "greater": [
+        "Area Skills have (6-8)% chance to deal Double Damage"
+      ]
+    }
+  },
+  {
+    "name": "Mariner's Tricorne",
+    "icon": "VisceraPirateHat",
+    "category": "Act1",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraPirateHat.webp",
+    "drops": [
+      "Act 1, Captain Fairgraves, The Ship Graveyard",
+      "Belcer, the Pirate Lord, Shore"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-12)% chance to gain Phasing for 4 seconds on Kill"
+      ],
+      "normal": [
+        "(15-20)% chance to gain Phasing for 4 seconds on Kill"
+      ],
+      "greater": [
+        "(4-6)% chance to gain Phasing on Hit"
+      ]
+    }
+  },
+  {
+    "name": "Elemental Essence",
+    "icon": "VisceraOrbofWater",
+    "category": "Act1",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraOrbofWater.webp",
+    "drops": [
+      "Act 1, Stranglecharm, The Ship Graveyard Cave"
+    ],
+    "mods": {
+      "lesser": [
+        "+(14-18)% to Cold Resistance"
+      ],
+      "normal": [
+        "+(22-28)% to Cold Resistance"
+      ],
+      "greater": [
+        "+(2-3)% to maximum Cold Resistance"
+      ]
+    }
+  },
+  {
+    "name": "Galvanic Tentacle",
+    "icon": "VisceraTentacleLegLightning",
+    "category": "Act1",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraTentacleLegLightning.webp",
+    "drops": [
+      "Act 1, Amarissa, Daughter of Merveil, The Cavern of Wrath",
+      "Shock and Horror, Mineral Pools"
+    ],
+    "mods": {
+      "lesser": [
+        "+(14-18)% to Lightning Resistance"
+      ],
+      "normal": [
+        "+(22-28)% to Lightning Resistance"
+      ],
+      "greater": [
+        "+(2-3)% to maximum Lightning Resistance"
+      ]
+    }
+  },
+  {
+    "name": "Siren's Tentacle",
+    "icon": "VisceraMerveilLeg",
+    "category": "Act1",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act1/VisceraMerveilLeg.webp",
+    "drops": [
+      "Act 1, Merveil, the Siren, The Cavern of Anger",
+      "Merveil, the Returned, Underground Sea"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% increased Effect of Cold Ailments"
+      ],
+      "normal": [
+        "(20-30)% increased Effect of Cold Ailments"
+      ],
+      "greater": [
+        "+5% to Maximum Effect of Chill"
+      ]
+    }
+  },
+  {
+    "name": "Cutthroat's Head",
+    "icon": "VisceraCalaf",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraCalaf.webp",
+    "drops": [
+      "Act 2, Calaf, Headstaver, The Southern Forest",
+      "Massier, Strand"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% increased Global Physical Damage"
+      ],
+      "normal": [
+        "(20-30)% increased Global Physical Damage"
+      ],
+      "greater": [
+        "Hits have (30-50)% chance to ignore Enemy Physical Damage Reduction"
+      ]
+    }
+  },
+  {
+    "name": "Golemic Stone",
+    "icon": "VisceraRockBody",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraRockBody.webp",
+    "drops": [
+      "Act 2, Gneiss, The Old Fields",
+      "Titan of the Grove, Peninsula"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% chance to Avoid being Stunned"
+      ],
+      "normal": [
+        "(20-30)% chance to Avoid being Stunned"
+      ],
+      "greater": [
+        "You cannot be Stunned if you've been Stunned or Blocked a Stunning Hit in the past 2 seconds"
+      ]
+    }
+  },
+  {
+    "name": "Gargantuan Claws",
+    "icon": "VisceraClaw2",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraClaw2.webp",
+    "drops": [
+      "Act 2, The Great White Beast, The Den",
+      "Beast of the Pits, Barrows"
+    ],
+    "mods": {
+      "lesser": [
+        "(4-6)% increased Attack Speed with Claws"
+      ],
+      "normal": [
+        "(8-10)% increased Attack Speed with Claws"
+      ],
+      "greater": [
+        "(10-12)% increased Attack Speed while Dual Wielding"
+      ]
+    }
+  },
+  {
+    "name": "Hollowed Skull",
+    "icon": "VisceraSkullHead",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraSkullHead.webp",
+    "drops": [
+      "Act 2, Bravalo, The Crossroads"
+    ],
+    "mods": {
+      "lesser": [
+        "(-15--10) Physical Damage taken from Attack Hits"
+      ],
+      "normal": [
+        "(-30--20) Physical Damage taken from Attack Hits"
+      ],
+      "greater": [
+        "-1 Physical Damage taken from Hits per Level"
+      ]
+    }
+  },
+  {
+    "name": "Bonestalker's Ribcage",
+    "icon": "VisceraRibcage",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraRibcage.webp",
+    "drops": [
+      "Act 2, Targoth, Undying Goliath, The Crypt Level 1",
+      "Burtok, Conjurer of Bones, Necropolis"
+    ],
+    "mods": {
+      "lesser": [
+        "(4-5)% reduced Physical Damage taken over time"
+      ],
+      "normal": [
+        "(6-7)% reduced Physical Damage taken over time"
+      ],
+      "greater": [
+        "(4-6)% additional Physical Damage Reduction"
+      ]
+    }
+  },
+  {
+    "name": "Templar Skull",
+    "icon": "VisceraBossSkull",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraBossSkull.webp",
+    "drops": [
+      "Act 2, Archbishop Geofri the Abashed, The Crypt Level 2",
+      "Pagan Bishop of Agony, Cursed Crypt"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-12)% increased Light Radius"
+      ],
+      "normal": [
+        "(15-20)% increased Light Radius"
+      ],
+      "greater": [
+        "Increases and Reductions to Light Radius also apply to Life Regeneration Rate at (8-12)% value"
+      ]
+    }
+  },
+  {
+    "name": "Arachnid Fangs",
+    "icon": "VisceraSpiderHead",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraSpiderHead.webp",
+    "drops": [
+      "Act 2, Black Death, The Chamber of Sins Level 1",
+      "Hybrid Widow, Arachnid Tomb"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% chance to Poison on Hit"
+      ],
+      "normal": [
+        "(20-30)% chance to Poison on Hit"
+      ],
+      "greater": [
+        "Poisons you inflict deal Damage (10-15)% Faster"
+      ]
+    }
+  },
+  {
+    "name": "Severed Stinger",
+    "icon": "VisceraStingerLeg",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraStingerLeg.webp",
+    "drops": [
+      "Act 2, Fidelitas, the Mourning, The Chamber of Sins Level 2",
+      "Kruug, the Frayed, Hallowed Ground"
+    ],
+    "mods": {
+      "lesser": [
+        "Damage Penetrates (3-4)% Lightning Resistance"
+      ],
+      "normal": [
+        "Damage Penetrates (6-8)% Lightning Resistance"
+      ],
+      "greater": [
+        "Hits have (10-15)% chance to treat Enemy Monster Lightning Resistance values as inverted"
+      ]
+    }
+  },
+  {
+    "name": "Bandit Rogue's Head",
+    "icon": "VisceraKraitynHead",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraKraitynHead.webp",
+    "drops": [
+      "Act 2, Kraityn, The Broken Bridge",
+      "Leif, the Swift-Handed, Castle Ruins"
+    ],
+    "mods": {
+      "lesser": [
+        "(4-6)% increased Attack and Cast Speed"
+      ],
+      "normal": [
+        "(8-10)% increased Attack and Cast Speed"
+      ],
+      "greater": [
+        "(3-4)% increased Action Speed"
+      ]
+    }
+  },
+  {
+    "name": "Poacher's Leg",
+    "icon": "VisceraBanditsLeg",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraBanditsLeg.webp",
+    "drops": [
+      "Act 2, Targa, Beast Poacher, The Riverways"
+    ],
+    "mods": {
+      "lesser": [
+        "(-30--20) Physical Damage taken from Hits by Animals"
+      ],
+      "normal": [
+        "(-50--40) Physical Damage taken from Hits by Animals"
+      ],
+      "greater": [
+        "(40-60)% increased Damage against Beasts can see monster type beasts [1]"
+      ]
+    }
+  },
+  {
+    "name": "Cobra Tail",
+    "icon": "VisceraSnakeTailLeg",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraSnakeTailLeg.webp",
+    "drops": [
+      "Act 2, Seleslatha, The Northern Forest"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-12)% increased Cooldown Recovery Rate of Travel Skills"
+      ],
+      "normal": [
+        "(15-20)% increased Cooldown Recovery Rate of Travel Skills"
+      ],
+      "greater": [
+        "Travel Skills have (15-20)% chance to not consume a Cooldown on use"
+      ]
+    }
+  },
+  {
+    "name": "Bandit Witch's Head",
+    "icon": "VisceraAlirasHead",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraAlirasHead.webp",
+    "drops": [
+      "Act 2, Alira, The Western Forest",
+      "Enticer of Rot, Spider Forest"
+    ],
+    "mods": {
+      "lesser": [
+        "Regenerate (4-6) Mana per second"
+      ],
+      "normal": [
+        "Regenerate (8-10) Mana per second"
+      ],
+      "greater": [
+        "(15-20)% of Damage taken Recouped as Mana"
+      ]
+    }
+  },
+  {
+    "name": "Arachnid Leg",
+    "icon": "VisceraSpiderLeg",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraSpiderLeg.webp",
+    "drops": [
+      "Act 2, The Weaver, The Weaver's Chambers",
+      "Queen of the Great Tangle, Jungle Valley",
+      "Spinner of False Hope, Arachnid Nest"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-12)% chance to Hinder Enemies on Hit with Spells"
+      ],
+      "normal": [
+        "(15-20)% chance to Hinder Enemies on Hit with Spells"
+      ],
+      "greater": [
+        "Immune to Hinder"
+      ]
+    }
+  },
+  {
+    "name": "Vaal Appendage",
+    "icon": "VisceraVaalArm",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraVaalArm.webp",
+    "drops": [
+      "Act 2, Icali, Vaal Overseer, The Vaal Ruins"
+    ],
+    "mods": {
+      "lesser": [
+        "+(0.2-0.3) metres to Melee Strike Range"
+      ],
+      "normal": [
+        "+(0.4-0.5) metres to Melee Strike Range"
+      ],
+      "greater": [
+        "(30-50)% increased Damage with Vaal Skills"
+      ]
+    }
+  },
+  {
+    "name": "Bandit Warrior's Head",
+    "icon": "VisceraOakHead",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraOakHead.webp",
+    "drops": [
+      "Act 2, Oak, The Riverways",
+      "Oak the Mighty, Mesa"
+    ],
+    "mods": {
+      "lesser": [
+        "Regenerate (0.8-1)% of Life per second"
+      ],
+      "normal": [
+        "Regenerate (1.6-2)% of Life per second"
+      ],
+      "greater": [
+        "Regenerate (3-4)% of Life per second if you have been Hit Recently"
+      ]
+    }
+  },
+  {
+    "name": "Primate Foot",
+    "icon": "VisceraMonkeyLeg",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraMonkeyLeg.webp",
+    "drops": [
+      "Act 2, Aidan the Frenzied, The Dread Thicket",
+      "Blood Progenitor, Tropical Island"
+    ],
+    "mods": {
+      "lesser": [
+        "(4-6)% increased Movement Speed while Ignited"
+      ],
+      "normal": [
+        "(8-10)% increased Movement Speed while Ignited"
+      ],
+      "greater": [
+        "(5-6)% increased Action Speed while Ignited"
+      ]
+    }
+  },
+  {
+    "name": "Ursine Flesh",
+    "icon": "VisceraDropBear",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraDropBear.webp",
+    "drops": [
+      "Act 2, Q'uru, The Caverns",
+      "It That Fell, Underground River"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% reduced Enemy Stun Threshold"
+      ],
+      "normal": [
+        "(20-30)% reduced Enemy Stun Threshold"
+      ],
+      "greater": [
+        "(75-100)% increased Stun Duration against Enemies that are on Full Life"
+      ]
+    }
+  },
+  {
+    "name": "Artificial Appendage",
+    "icon": "VisceraIncaBoss1Arm",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraIncaBoss1Arm.webp",
+    "drops": [
+      "Act 2, Vaal Oversoul, The Ancient Pyramid",
+      "Shadow of the Vaal, Maze"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Artificial Appendage",
+    "icon": "VisceraIncaBoss2Arm",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraIncaBoss2Arm.webp",
+    "drops": [
+      "Act 2, Vaal Oversoul, The Ancient Pyramid",
+      "Shadow of the Vaal, Maze"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Artificial Appendage",
+    "icon": "VisceraIncaBoss3Arm",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraIncaBoss3Arm.webp",
+    "drops": [
+      "Act 2, Vaal Oversoul, The Ancient Pyramid",
+      "Shadow of the Vaal, Maze"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Severed Scythe-hand",
+    "icon": "VisceraReaperHand",
+    "category": "Act2",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act2/VisceraReaperHand.webp",
+    "drops": [],
+    "mods": {
+      "lesser": [
+        "Recover (2-3)% of Life on Kill"
+      ],
+      "normal": [
+        "Recover (4-5)% of Life on Kill"
+      ],
+      "greater": [
+        "(5-7)% chance to Recover all Life when you Kill an Enemy"
+      ]
+    }
+  },
+  {
+    "name": "Captain's Leg",
+    "icon": "VisceraSoldierLeg",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraSoldierLeg.webp",
+    "drops": [
+      "Act 3, Guard Captain, The City of Sarn"
+    ],
+    "mods": {
+      "lesser": [
+        "(3-4)% increased Movement Speed"
+      ],
+      "normal": [
+        "(5-6)% increased Movement Speed"
+      ],
+      "greater": [
+        "Ignore all Movement Penalties from Armour"
+      ]
+    }
+  },
+  {
+    "name": "Spined Claws",
+    "icon": "VisceraUndyingClaw",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraUndyingClaw.webp",
+    "drops": [
+      "Act 3, Perpetus, The Slums",
+      "The Reaver, Ramparts"
+    ],
+    "mods": {
+      "lesser": [
+        "Attacks have (10-15)% chance to cause Bleeding"
+      ],
+      "normal": [
+        "Attacks have (20-30)% chance to cause Bleeding"
+      ],
+      "greater": [
+        "Attacks have % chance to cause Bleeding Bleeding you inflict deals Damage (10-15)% Faster"
+      ]
+    }
+  },
+  {
+    "name": "Molten Core",
+    "icon": "VisceraFlamingGolemCore",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraFlamingGolemCore.webp",
+    "drops": [
+      "Act 3, Hatebeat, The Crematorium"
+    ],
+    "mods": {
+      "lesser": [
+        "+(14-18)% to Fire Resistance"
+      ],
+      "normal": [
+        "+(22-28)% to Fire Resistance"
+      ],
+      "greater": [
+        "+(2-3)% to maximum Fire Resistance"
+      ]
+    }
+  },
+  {
+    "name": "Defaced Bust",
+    "icon": "VisceraDefacedStatueHead",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraDefacedStatueHead.webp",
+    "drops": [
+      "Act 3, Marceus the Defaced, The Marketplace"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% increased Stun and Block Recovery"
+      ],
+      "normal": [
+        "(20-30)% increased Stun and Block Recovery"
+      ],
+      "greater": [
+        "(75-100)% chance to gain an Endurance Charge when you Stun an Enemy with a Melee Hit"
+      ]
+    }
+  },
+  {
+    "name": "Spectral Hood",
+    "icon": "VisceraShadeHood",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraShadeHood.webp",
+    "drops": [
+      "Act 3, The Black Phantom, The Catacombs",
+      "The Restless Shade, Grave Trough"
+    ],
+    "mods": {
+      "lesser": [
+        "+(7-13)% to Chaos Resistance"
+      ],
+      "normal": [
+        "+(17-19)% to Chaos Resistance"
+      ],
+      "greater": [
+        "+(2-3)% to maximum Chaos Resistance"
+      ]
+    }
+  },
+  {
+    "name": "Soldier's Head",
+    "icon": "VisceraSoldierHead",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraSoldierHead.webp",
+    "drops": [
+      "Act 3, Captain Aurelianus, The Battlefront",
+      "Blackguard Avenger, Promenade"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% increased Armour"
+      ],
+      "normal": [
+        "(20-30)% increased Armour"
+      ],
+      "greater": [
+        "(80-120)% increased Armour from Equipped Helmet"
+      ]
+    }
+  },
+  {
+    "name": "Flaming Ribbon",
+    "icon": "VisceraBurningRugArm",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraBurningRugArm.webp",
+    "drops": [
+      "Act 3, The Infernal Seal, The Solaris Temple Level 1",
+      "Herald of Ashes, Arcade"
+    ],
+    "mods": {
+      "lesser": [
+        "(4-5)% reduced Burning Damage taken"
+      ],
+      "normal": [
+        "(6-7)% reduced Burning Damage taken"
+      ],
+      "greater": [
+        "(5-6)% reduced Fire Damage taken"
+      ]
+    }
+  },
+  {
+    "name": "Statue Leg",
+    "icon": "VisceraStatueLeg",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraStatueLeg.webp",
+    "drops": [
+      "Act 3, The Goddess of Purity, The Solaris Temple Level 2"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% chance to Knock Enemies Back on hit"
+      ],
+      "normal": [
+        "(20-30)% chance to Knock Enemies Back on hit"
+      ],
+      "greater": [
+        "Cannot be Knocked Back"
+      ]
+    }
+  },
+  {
+    "name": "Voidbearer's Leg",
+    "icon": "VisceraSmolderingLeg",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraSmolderingLeg.webp",
+    "drops": [
+      "Act 3, The Shipyard Terror, The Docks"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-10)% increased Movement Speed while on Burning Ground"
+      ],
+      "normal": [
+        "(12-15)% increased Movement Speed while on Burning Ground"
+      ],
+      "greater": [
+        "(40-60)% increased Damage on Burning Ground"
+      ]
+    }
+  },
+  {
+    "name": "Voltaic Apparatus",
+    "icon": "VisceraLightningHead",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraLightningHead.webp",
+    "drops": [
+      "Act 3, Lecius, the Woebegone, The Sewers"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-12)% chance to gain a Power Charge on Kill"
+      ],
+      "normal": [
+        "(15-20)% chance to gain a Power Charge on Kill"
+      ],
+      "greater": [
+        "(8-12)% chance that if you would gain Power Charges, you instead gain up to your maximum number of Power Charges"
+      ]
+    }
+  },
+  {
+    "name": "General's Head",
+    "icon": "VisceraGravicusHead",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraGravicusHead.webp",
+    "drops": [
+      "Act 3, General Gravicius, The Ebony Barracks",
+      "Tyrant, Colonnade",
+      "Warmonger, Armoury"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-12)% increased maximum Energy Shield"
+      ],
+      "normal": [
+        "(15-20)% increased maximum Energy Shield"
+      ],
+      "greater": [
+        "Gain (4-6)% of Maximum Life as Extra Maximum Energy Shield"
+      ]
+    }
+  },
+  {
+    "name": "Brute's Arm",
+    "icon": "VisceraMuscularArm",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraMuscularArm.webp",
+    "drops": [
+      "Act 3, Kole, The Lunaris Temple Level 1"
+    ],
+    "mods": {
+      "lesser": [
+        "+(10-15) to Strength"
+      ],
+      "normal": [
+        "+(20-30) to Strength"
+      ],
+      "greater": [
+        "(4-6)% increased Strength"
+      ]
+    }
+  },
+  {
+    "name": "Thaumaturge's Head",
+    "icon": "VisceraPietysHead",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraPietysHead.webp",
+    "drops": [
+      "Act 3, Piety, The Lunaris Temple Level 2",
+      "Piety the Empyrean, Shrine"
+    ],
+    "mods": {
+      "lesser": [
+        "Gain (4-5)% of Physical Damage as Extra Damage of a random Element"
+      ],
+      "normal": [
+        "Gain (8-10)% of Physical Damage as Extra Damage of a random Element"
+      ],
+      "greater": [
+        "Gain (4-6)% of Physical Damage as Extra Fire Damage Gain (4-6)% of Physical Damage as Extra Cold Damage Gain (4-6)% of Physical Damage as Extra Lightning Damage"
+      ]
+    }
+  },
+  {
+    "name": "Spiked Carapace",
+    "icon": "VisceraSpikedBodyCarapace",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraSpikedBodyCarapace.webp",
+    "drops": [],
+    "mods": {
+      "lesser": [
+        "Reflects (200-250) Cold Damage to Melee Attackers"
+      ],
+      "normal": [
+        "Reflects (400-500) Cold Damage to Melee Attackers"
+      ],
+      "greater": [
+        "(300-400)% of Melee Cold Damage taken reflected to Attacker"
+      ]
+    }
+  },
+  {
+    "name": "Skeletal Beast Leg",
+    "icon": "VisceraHindBeastBoneLeg",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraHindBeastBoneLeg.webp",
+    "drops": [
+      "Act 3, Tyrannursus Maximus, The Library"
+    ],
+    "mods": {
+      "lesser": [
+        "(18-24)% chance to Avoid Bleeding"
+      ],
+      "normal": [
+        "(30-40)% chance to Avoid Bleeding"
+      ],
+      "greater": [
+        "Moving while Bleeding doesn't cause you to take extra Damage"
+      ]
+    }
+  },
+  {
+    "name": "Scholar's Arm",
+    "icon": "VisceraBossArm",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraBossArm.webp",
+    "drops": [
+      "Act 3, Trinian, Intellectus Prime, The Archives",
+      "The Arbiter of Knowledge, Academy"
+    ],
+    "mods": {
+      "lesser": [
+        "+(10-15) to Intelligence"
+      ],
+      "normal": [
+        "+(20-30) to Intelligence"
+      ],
+      "greater": [
+        "(4-6)% increased Intelligence"
+      ]
+    }
+  },
+  {
+    "name": "Aristocrat's Torso",
+    "icon": "VisceraBossTorso",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraBossTorso.webp",
+    "drops": [
+      "Act 3, Caliga, Imperatrix, The Sceptre of God",
+      "Excellis Aurafix, Residence"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-10)% increased Life Regeneration rate"
+      ],
+      "normal": [
+        "(15-20)% increased Life Regeneration rate"
+      ],
+      "greater": [
+        "2% increased Life Recovery rate per 5% missing Unreserved Life"
+      ]
+    }
+  },
+  {
+    "name": "Despot's Fist",
+    "icon": "VisceraDominusFist",
+    "category": "Act3",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act3/VisceraDominusFist.webp",
+    "drops": [
+      "Act 3, Dominus, High Templar, The Upper Sceptre of God",
+      "God's Chosen, Palace"
+    ],
+    "mods": {
+      "lesser": [
+        "Adds (1-3) to (40-60) Lightning Damage to Unarmed Melee Hits"
+      ],
+      "normal": [
+        "Adds (1-5) to (80-120) Lightning Damage to Unarmed Melee Hits"
+      ],
+      "greater": [
+        "(20-30)% increased Area of Effect while Unarmed"
+      ]
+    }
+  },
+  {
+    "name": "Vulture's Gut",
+    "icon": "VisceraVultureGut",
+    "category": "Act4",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraVultureGut.webp",
+    "drops": [
+      "Act 4, The Hundred Foot Shadow, The Aqueduct",
+      "The Winged Death, Channel"
+    ],
+    "mods": {
+      "lesser": [
+        "Killing Blows Consume corpses to Recover (40-60) Life and (20-30) Mana"
+      ],
+      "normal": [
+        "Killing Blows Consume corpses to Recover (80-120) Life and (40-60) Mana"
+      ],
+      "greater": [
+        "Killing Blows Consume corpses to Recover (3-4)% of Mana killing blow consumes corpse restore % life [3,4]"
+      ]
+    }
+  },
+  {
+    "name": "Templar Banner",
+    "icon": "VisceraVollBanner",
+    "category": "Act4",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraVollBanner.webp",
+    "drops": [
+      "Act 4, Voll, Emperor of Purity, The Dried Lake",
+      "The Brittle Emperor, Wasteland"
+    ],
+    "mods": {
+      "lesser": [
+        "3% increased Spell Damage per Power Charge"
+      ],
+      "normal": [
+        "4% increased Spell Damage per Power Charge"
+      ],
+      "greater": [
+        "Gain 1% of Lightning Damage as Extra Chaos Damage per Power Charge"
+      ]
+    }
+  },
+  {
+    "name": "Pocked Leg",
+    "icon": "VisceraPockedLeg",
+    "category": "Act4",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraPockedLeg.webp",
+    "drops": [
+      "Act 4, Pikerivet, The Mines Level 1",
+      "Lord of the Hollows, Crystal Ore"
+    ],
+    "mods": {
+      "lesser": [
+        "(20-30)% increased Armour from Equipped Helmet and Gloves"
+      ],
+      "normal": [
+        "(35-50)% increased Armour from Equipped Helmet and Gloves"
+      ],
+      "greater": [
+        "(35-50)% increased Armour from Equipped Helmet, Body Armour, Gloves, and Boots"
+      ]
+    }
+  },
+  {
+    "name": "Pocked Arm",
+    "icon": "VisceraPockedArm",
+    "category": "Act4",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraPockedArm.webp",
+    "drops": [
+      "Act 4, Hammerstorm, The Mines Level 2",
+      "Breaker Toruul, Excavation"
+    ],
+    "mods": {
+      "lesser": [
+        "(20-30)% increased Evasion Rating from Equipped Helmet and Boots"
+      ],
+      "normal": [
+        "(35-50)% increased Evasion Rating from Equipped Helmet and Boots"
+      ],
+      "greater": [
+        "(35-50)% increased Evasion Rating from Equipped Helmet, Body Armour Gloves and Boots"
+      ]
+    }
+  },
+  {
+    "name": "Flesh-fused Lantern",
+    "icon": "VisceraFleshmeltedLantern",
+    "category": "Act4",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraFleshmeltedLantern.webp",
+    "drops": [
+      "Act 4, The Burning Man, The Crystal Veins",
+      "Messenger of the Hollows, Crystal Ore"
+    ],
+    "mods": {
+      "lesser": [
+        "+(6-8)% to Fire Damage over Time Multiplier"
+      ],
+      "normal": [
+        "+(10-14)% to Fire Damage over Time Multiplier"
+      ],
+      "greater": [
+        "+(20-30)% to Fire Damage over Time Multiplier while Ignited"
+      ]
+    }
+  },
+  {
+    "name": "Carved Haunches",
+    "icon": "VisceraTotemChunk",
+    "category": "Act4",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraTotemChunk.webp",
+    "drops": [
+      "Act 4, Torchoak Grove, Kaom's Dream",
+      "Forest of Flames, Volcano"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% increased Totem Placement speed"
+      ],
+      "normal": [
+        "(20-30)% increased Totem Placement speed"
+      ],
+      "greater": [
+        "Skills that Summon a Totem have (16-24)% chance to Summon two Totems instead of one"
+      ]
+    }
+  },
+  {
+    "name": "Blazing Skull",
+    "icon": "VisceraKaomHead",
+    "category": "Act4",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraKaomHead.webp",
+    "drops": [
+      "Act 4, King Kaom, Kaom's Stronghold",
+      "The Infernal King, Caldera"
+    ],
+    "mods": {
+      "lesser": [
+        "(20-30)% increased Damage with Hits against Rare monsters"
+      ],
+      "normal": [
+        "(35-50)% increased Damage with Hits against Rare monsters"
+      ],
+      "greater": [
+        "When you Kill a Rare Monster, (20-30)% chance to gain one of its Modifiers for 10 seconds"
+      ]
+    }
+  },
+  {
+    "name": "Gladiator's Heart",
+    "icon": "VisceraBarkhulHeart",
+    "category": "Act4",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraBarkhulHeart.webp",
+    "drops": [
+      "Act 4, Barkhul, Daresso's Dream",
+      "Olof, Son of the Headsman, Pit"
+    ],
+    "mods": {
+      "lesser": [
+        "Gain 1 Rage on Melee Hit"
+      ],
+      "normal": [
+        "Gain 2 Rage on Melee Hit"
+      ],
+      "greater": [
+        "+(5-7) to Maximum Rage"
+      ]
+    }
+  },
+  {
+    "name": "Swordmaster's Blade",
+    "icon": "VisceraDaressoBlade",
+    "category": "Act4",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraDaressoBlade.webp",
+    "drops": [
+      "Act 4, Daresso, King of Swords, The Grand Arena",
+      "Ambrius, Legion Slayer, Colosseum"
+    ],
+    "mods": {
+      "lesser": [
+        "(4-6)% increased Attack Speed with Swords"
+      ],
+      "normal": [
+        "(8-10)% increased Attack Speed with Swords"
+      ],
+      "greater": [
+        "100% reduced Enemy Chance to Block Sword Attacks"
+      ]
+    }
+  },
+  {
+    "name": "Chitinous Leg",
+    "icon": "VisceraSpindlyLegs",
+    "category": "Act4",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraSpindlyLegs.webp",
+    "drops": [
+      "Act 4, The Bone Queen, The Belly of the Beast Level 1",
+      "Thraxia, Spider Lair"
+    ],
+    "mods": {
+      "lesser": [
+        "Corpses you Spawn have (4-6)% increased Maximum Life"
+      ],
+      "normal": [
+        "Corpses you Spawn have (8-10)% increased Maximum Life"
+      ],
+      "greater": [
+        "Enemies within 6 metres of corpses you spawned Recently have 100% reduced Life Regeneration Rate"
+      ]
+    }
+  },
+  {
+    "name": "Engorged Eye",
+    "icon": "VisceraPietySwollenEye",
+    "category": "Act4",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraPietySwollenEye.webp",
+    "drops": [
+      "Act 4, Piety, the Abomination, The Belly of the Beast Level 2",
+      "Nightmare Manifest, Malformation"
+    ],
+    "mods": {
+      "lesser": [
+        "(30-50)% chance to avoid Corrupted Blood"
+      ],
+      "normal": [
+        "(60-80)% chance to avoid Corrupted Blood"
+      ],
+      "greater": [
+        "Corrupted Blood cannot be inflicted on you"
+      ]
+    }
+  },
+  {
+    "name": "Corrupted Carapace",
+    "icon": "VisceraMalachaiCarapace",
+    "category": "Act4",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraMalachaiCarapace.webp",
+    "drops": [
+      "Act 4, Malachai, The Nightmare, The Harvest",
+      "Eater of Souls, Core"
+    ],
+    "mods": {
+      "lesser": [
+        "(18-24)% increased Damage with Skills that Cost Life"
+      ],
+      "normal": [
+        "(30-40)% increased Damage with Skills that Cost Life"
+      ],
+      "greater": [
+        "Skills that Cost Life have (6-8)% chance to deal Double Damage"
+      ]
+    }
+  },
+  {
+    "name": "Vendigo Claws",
+    "icon": "VisceraVendigoClaw",
+    "category": "Act4",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act4/VisceraVendigoClaw.webp",
+    "drops": [
+      "Act 4, The White Death, The Ascent"
+    ],
+    "mods": {
+      "lesser": [
+        "Adds (10-15) to (25-35) Cold Damage to Unarmed Attacks"
+      ],
+      "normal": [
+        "Adds (25-35) to (50-75) Cold Damage to Unarmed Attacks"
+      ],
+      "greater": [
+        "(25-40)% increased Damage with Hits against Chilled Enemies"
+      ]
+    }
+  },
+  {
+    "name": "Overseer's Whip",
+    "icon": "VisceraSlaveDriversWhip",
+    "category": "Act5",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraSlaveDriversWhip.webp",
+    "drops": [
+      "Act 5, Overseer Krow, The Slave Pens",
+      "Arwyn, the Houndmaster, Pen"
+    ],
+    "mods": {
+      "lesser": [
+        "Minions have (18-24)% increased Movement Speed if you've used a Minion Skill Recently"
+      ],
+      "normal": [
+        "Minions have (30-40)% increased Movement Speed if you've used a Minion Skill Recently"
+      ],
+      "greater": [
+        "Minions are Aggressive if you've used a Minion Skill Recently"
+      ]
+    }
+  },
+  {
+    "name": "Justicar's Helm",
+    "icon": "VisceraJusticarsHelmet",
+    "category": "Act5",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraJusticarsHelmet.webp",
+    "drops": [
+      "Act 5, Justicar Casticus, The Control Blocks",
+      "Executioner Bloodwing, Cage"
+    ],
+    "mods": {
+      "lesser": [
+        "(18-24)% increased Stun Threshold"
+      ],
+      "normal": [
+        "(30-40)% increased Stun Threshold"
+      ],
+      "greater": [
+        "(10-15)% of Damage taken from Stunning Hits is Recovered as Life"
+      ]
+    }
+  },
+  {
+    "name": "Flaming Furnace",
+    "icon": "VisceraMatriarchsCauldron",
+    "category": "Act5",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraMatriarchsCauldron.webp",
+    "drops": [
+      "Act 5, The Matriarch, Oriath Square",
+      "Pileah, Corpse Burner, City Square"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-12)% chance to inflict Fire Exposure on Hit"
+      ],
+      "normal": [
+        "(15-20)% chance to inflict Fire Exposure on Hit"
+      ],
+      "greater": [
+        "Fire Exposure you inflict applies an extra (-6--4)% to Fire Resistance"
+      ]
+    }
+  },
+  {
+    "name": "Adherent's Crown",
+    "icon": "VisceraPrayerCrown",
+    "category": "Act5",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraPrayerCrown.webp",
+    "drops": [
+      "Act 5, Apostle of Holy Fire, The Templar Courts"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% of Physical Damage Converted to Fire Damage"
+      ],
+      "normal": [
+        "(20-30)% of Physical Damage Converted to Fire Damage"
+      ],
+      "greater": [
+        "Gain (10-15)% of Physical Damage as Extra Fire Damage"
+      ]
+    }
+  },
+  {
+    "name": "Heretical Tome",
+    "icon": "VisceraHereticalBook",
+    "category": "Act5",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraHereticalBook.webp",
+    "drops": [
+      "Act 5, Cato, Scholar of Light, The Torched Courts",
+      "Barthol, Haunted Mansion"
+    ],
+    "mods": {
+      "lesser": [
+        "+(6-8)% to Physical Damage over Time Multiplier"
+      ],
+      "normal": [
+        "+(10-14)% to Physical Damage over Time Multiplier"
+      ],
+      "greater": [
+        "+(20-30)% to Physical Damage over Time Multiplier while Bleeding"
+      ]
+    }
+  },
+  {
+    "name": "Hallowed Descry",
+    "icon": "VisceraInnocencesDescry",
+    "category": "Act5",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraInnocencesDescry.webp",
+    "drops": [],
+    "mods": {
+      "lesser": [
+        "(10-15)% increased Effect of Consecrated Ground you create"
+      ],
+      "normal": [
+        "(20-30)% increased Effect of Consecrated Ground you create"
+      ],
+      "greater": [
+        "Consecrated Ground you create grants (4-6)% reduced damage taken to you and Allies"
+      ]
+    }
+  },
+  {
+    "name": "Skeletal Tail",
+    "icon": "VisceraSkullTail",
+    "category": "Act5",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraSkullTail.webp",
+    "drops": [
+      "Act 5, Osseous Abomination, The Ossuary"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% increased Projectile Damage"
+      ],
+      "normal": [
+        "(20-30)% increased Projectile Damage"
+      ],
+      "greater": [
+        "Projectiles Pierce, Fork or Chain an additional time at random"
+      ]
+    }
+  },
+  {
+    "name": "Scholar's Leg",
+    "icon": "VisceraHandLeg",
+    "category": "Act5",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraHandLeg.webp",
+    "drops": [
+      "Act 5, Tacitus, Fallen Archivist, The Reliquary"
+    ],
+    "mods": {
+      "lesser": [
+        "(5-6)% increased bonuses gained from Equipped Gloves"
+      ],
+      "normal": [
+        "(8-10)% increased bonuses gained from Equipped Gloves"
+      ],
+      "greater": [
+        "(40-50)% reduced bonuses gained from Equipped Boots (20-30)% increased bonuses gained from Equipped Gloves"
+      ]
+    }
+  },
+  {
+    "name": "Ravenous Skull",
+    "icon": "VisceraKitavasHead",
+    "category": "Act5",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act5/VisceraKitavasHead.webp",
+    "drops": [
+      "Act 10, Kitava, the Insatiable, The Feeding Trough",
+      "Lord of the Grey, Belfry"
+    ],
+    "mods": {
+      "lesser": [
+        "Every 3 seconds, Consume a Corpse within 5 metres to Recover (2-3)% of Life Every 3 seconds, Consume a Corpse within 5 metres to Recover (2-3)% of Mana"
+      ],
+      "normal": [
+        "Every 3 seconds, Consume a Corpse within 5 metres to Recover (4-5)% of Life Every 3 seconds, Consume a Corpse within 5 metres to Recover (4-5)% of Mana"
+      ],
+      "greater": [
+        "(16-24)% increased Damage if you have Consumed a corpse Recently Regenerate (1.6-2)% of Life per second if you've Consumed a corpse Recently Regenerate (0.8-1)% of Mana per second if you've Consumed a corpse Recently"
+      ]
+    }
+  },
+  {
+    "name": "Noble's Head",
+    "icon": "VisceraDrownedHead",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraDrownedHead.webp",
+    "drops": [
+      "Act 6, Rhys of Abram, The Twilight Strand"
+    ],
+    "mods": {
+      "lesser": [
+        "(6-8)% more Damage against Undead Monsters"
+      ],
+      "normal": [
+        "(12-15)% more Damage against Undead Monsters"
+      ],
+      "greater": [
+        "Kill Undead Enemies that have 15% or lower Life when Hit by your Skills"
+      ]
+    }
+  },
+  {
+    "name": "Conjoined Hound Head",
+    "icon": "VisceraTwinHoundHeads",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraTwinHoundHeads.webp",
+    "drops": [
+      "Act 6, Raihara, Tukohama's Loyal, The Coast"
+    ],
+    "mods": {
+      "lesser": [
+        "Skills Supported by Unleash have (8-12)% increased Seal gain frequency"
+      ],
+      "normal": [
+        "Skills Supported by Unleash have (15-20)% increased Seal gain frequency"
+      ],
+      "greater": [
+        "Skills supported by Unleash have +1 to maximum number of Seals"
+      ]
+    }
+  },
+  {
+    "name": "Scout's Bow",
+    "icon": "VisceraKaruiFlamingBow",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraKaruiFlamingBow.webp",
+    "drops": [
+      "Act 6, The Dishonoured Queen, The Mud Flats"
+    ],
+    "mods": {
+      "lesser": [
+        "Damage Penetrates (3-4)% Fire Resistance"
+      ],
+      "normal": [
+        "Damage Penetrates (6-8)% Fire Resistance"
+      ],
+      "greater": [
+        "Hits have (10-15)% chance to treat Enemy Monster Fire Resistance values as inverted"
+      ]
+    }
+  },
+  {
+    "name": "Ancestor's Club",
+    "icon": "VisceraTukohamasClubs",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraTukohamasClubs.webp",
+    "drops": [
+      "Act 6, Tukohama, Karui God of War, The Karui Fortress",
+      "Tahsin, Warmaker, Siege"
+    ],
+    "mods": {
+      "lesser": [
+        "Strike Skills which target additional Enemies can do so from (10-15)% further away"
+      ],
+      "normal": [
+        "Strike Skills which target additional Enemies can do so from (20-30)% further away"
+      ],
+      "greater": [
+        "Non-Vaal Strike Skills target 1 additional nearby Enemies"
+      ]
+    }
+  },
+  {
+    "name": "Skeleton Wheel",
+    "icon": "VisceraSkeletonWheel",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraSkeletonWheel.webp",
+    "drops": [
+      "Act 6, Fleetfreak, The Ridge"
+    ],
+    "mods": {
+      "lesser": [
+        "(5-7)% increased Attack and Cast Speed if you've used a Movement Skill Recently"
+      ],
+      "normal": [
+        "(10-12)% increased Attack and Cast Speed if you've used a Movement Skill Recently"
+      ],
+      "greater": [
+        "+1 to Level of all Movement Skill Gems"
+      ]
+    }
+  },
+  {
+    "name": "Osseous Talon",
+    "icon": "VisceraLightweightBones",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraLightweightBones.webp",
+    "drops": [],
+    "mods": {
+      "lesser": [
+        "+(10-15) to Dexterity"
+      ],
+      "normal": [
+        "+(20-30) to Dexterity"
+      ],
+      "greater": [
+        "(4-6)% increased Dexterity"
+      ]
+    }
+  },
+  {
+    "name": "Flayed Visage",
+    "icon": "VisceraShavronnesVeil",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraShavronnesVeil.webp",
+    "drops": [
+      "Act 6, Reassembled Brutus, Shavronne's Tower",
+      "Bazur, Tower"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-12)% of Chaos Damage taken does not bypass Energy Shield"
+      ],
+      "normal": [
+        "(15-20)% of Chaos Damage taken does not bypass Energy Shield"
+      ],
+      "greater": [
+        "(10-15)% of Damage taken Recouped as Energy Shield"
+      ]
+    }
+  },
+  {
+    "name": "Bear Head",
+    "icon": "VisceraBearHead",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraBearHead.webp",
+    "drops": [
+      "Act 6, The Animal Pack, The Riverways"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Boar Head",
+    "icon": "VisceraBoarHead",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraBoarHead.webp",
+    "drops": [
+      "Act 6, The Animal Pack, The Riverways"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Stag Head",
+    "icon": "VisceraStagHead",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraStagHead.webp",
+    "drops": [
+      "Act 6, The Animal Pack, The Riverways"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Arachnid Egg Sac",
+    "icon": "VisceraRyslathasEggSac",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraRyslathasEggSac.webp",
+    "drops": [
+      "Act 6, Ryslatha, the Puppet Mistress, The Wetlands",
+      "Gorulis, Will-Thief, Infested Valley"
+    ],
+    "mods": {
+      "lesser": [
+        "Minions created Recently have (5-7)% increased Attack and Cast Speed"
+      ],
+      "normal": [
+        "Minions created Recently have (8-12)% increased Attack and Cast Speed"
+      ],
+      "greater": [
+        "Minions created Recently have Onslaught"
+      ]
+    }
+  },
+  {
+    "name": "Infested Torso",
+    "icon": "VisceraInfestedTorso",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraInfestedTorso.webp",
+    "drops": [
+      "Act 6, Hollowskull, the Willing Host, The Southern Forest"
+    ],
+    "mods": {
+      "lesser": [
+        "Minions Regenerate (0.8-1)% of Life per second"
+      ],
+      "normal": [
+        "Minions Regenerate (1.6-2)% of Life per second"
+      ],
+      "greater": [
+        "Minions Recover (3-5)% of Life on Killing a Poisoned Enemy"
+      ]
+    }
+  },
+  {
+    "name": "King Crab's Claw",
+    "icon": "VisceraBrineKingsClaw",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraBrineKingsClaw.webp",
+    "drops": [
+      "Act 6, Tsoagoth, The Brine King, The Brine King's Reef",
+      "Nassar, Lion of the Seas, Reef"
+    ],
+    "mods": {
+      "lesser": [
+        "Gain (3-4)% of Physical Damage as Extra Cold Damage Gain (3-4)% of Physical Damage as Extra Lightning Damage"
+      ],
+      "normal": [
+        "Gain (4-5)% of Physical Damage as Extra Cold Damage Gain (4-5)% of Physical Damage as Extra Lightning Damage"
+      ],
+      "greater": [
+        "(10-15)% chance to gain a Brine Charge instead of an Endurance Charge"
+      ]
+    }
+  },
+  {
+    "name": "Calcified Leg",
+    "icon": "VisceraBoneMass",
+    "category": "Act7",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraBoneMass.webp",
+    "drops": [
+      "Unravelling Horror, Port"
+    ],
+    "mods": {
+      "lesser": [
+        "Skeletons deal (20-30)% increased Damage"
+      ],
+      "normal": [
+        "Skeletons deal (35-50)% increased Damage"
+      ],
+      "greater": [
+        "+(1-2) to maximum number of Skeletons"
+      ]
+    }
+  },
+  {
+    "name": "Wraith Claws",
+    "icon": "VisceraWraithClaw",
+    "category": "Act7",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraWraithClaw.webp",
+    "drops": [
+      "Act 7, The Wailing Lament, The Crypt"
+    ],
+    "mods": {
+      "lesser": [
+        "(5-7)% chance to Impale on Spell Hit"
+      ],
+      "normal": [
+        "(8-12)% chance to Impale on Spell Hit"
+      ],
+      "greater": [
+        "(20-25)% increased Effect of Impales inflicted with Spells"
+      ]
+    }
+  },
+  {
+    "name": "Infected Leg",
+    "icon": "VisceraPutridLegs",
+    "category": "Act7",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraPutridLegs.webp",
+    "drops": [
+      "Act 7, Plague Retch, The Chamber of Sins Level 2"
+    ],
+    "mods": {
+      "lesser": [
+        "Minions have +(6-8)% to Damage over Time Multiplier"
+      ],
+      "normal": [
+        "Minions have +(10-14)% to Damage over Time Multiplier"
+      ],
+      "greater": [
+        "Damaging Ailments inflicted by Minions deal damage (15-20)% Faster"
+      ]
+    }
+  },
+  {
+    "name": "Inquisitor's Claw",
+    "icon": "VisceraMaligarosClaw",
+    "category": "Act7",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraMaligarosClaw.webp",
+    "drops": [
+      "Act 7, Maligaro, the Artist, Maligaro's Sanctum",
+      "Visceris, Overgrown Ruin"
+    ],
+    "mods": {
+      "lesser": [
+        "Withered you Inflict expires (10-15)% slower"
+      ],
+      "normal": [
+        "Withered you Inflict expires (15-20)% slower"
+      ],
+      "greater": [
+        "(15-20)% increased Effect of Withered"
+      ]
+    }
+  },
+  {
+    "name": "Necromancer's Mask",
+    "icon": "VisceraNecromancersMask",
+    "category": "Act7",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraNecromancersMask.webp",
+    "drops": [
+      "Act 7, The Bone Sculptor, The Den"
+    ],
+    "mods": {
+      "lesser": [
+        "Offering Skills have (10-15)% increased Duration"
+      ],
+      "normal": [
+        "Offering Skills have (20-30)% increased Duration"
+      ],
+      "greater": [
+        "Offerings you create also grant (15-20)% increased Damage"
+      ]
+    }
+  },
+  {
+    "name": "Ornate Torso",
+    "icon": "VisceraRalakeshsFaces",
+    "category": "Act7",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraRalakeshsFaces.webp",
+    "drops": [
+      "Act 7, Greust, Lord of the Forest, The Ashen Fields",
+      "Drek, Apex Hunter, Fields"
+    ],
+    "mods": {
+      "lesser": [
+        "Minions have (10-15)% increased maximum Life"
+      ],
+      "normal": [
+        "Minions have (20-30)% increased maximum Life"
+      ],
+      "greater": [
+        "(3-5)% of Damage from Hits is taken from your Damagable Minions' Life before you"
+      ]
+    }
+  },
+  {
+    "name": "Devourer's Antenna",
+    "icon": "VisceraDevourersClaws",
+    "category": "Act7",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraDevourersClaws.webp",
+    "drops": [
+      "Act 7, Tunnelworm, The Northern Forest",
+      "Tunneltrap, Mud Geyser"
+    ],
+    "mods": {
+      "lesser": [
+        "(40-60)% increased Damage with Hits and Ailments against Enemies that are on Full Life"
+      ],
+      "normal": [
+        "(75-100)% increased Damage with Hits and Ailments against Enemies that are on Full Life"
+      ],
+      "greater": [
+        "Debilitate Enemies you Hit that are on Full Life for 4 seconds"
+      ]
+    }
+  },
+  {
+    "name": "Blackened Lungs",
+    "icon": "GruthkulsLungs",
+    "category": "Act7",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/GruthkulsLungs.webp",
+    "drops": [
+      "Act 7, Gruthkul, Mother of Despair, The Dread Thicket",
+      "Erebix, Light's Bane, Cemetery"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% increased Warcry Speed"
+      ],
+      "normal": [
+        "(20-30)% increased Warcry Speed"
+      ],
+      "greater": [
+        "Enemies Taunted by your Warcries have 4% reduced Action Speed"
+      ]
+    }
+  },
+  {
+    "name": "Construct's Head",
+    "icon": "VisceraSentrysHead",
+    "category": "Act7",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraSentrysHead.webp",
+    "drops": [
+      "Act 7, Vaal Sentry, The Causeway"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-12)% increased Projectile Speed"
+      ],
+      "normal": [
+        "(15-20)% increased Projectile Speed"
+      ],
+      "greater": [
+        "Skills deal (4-5)% increased Projectile damage per Projectile created"
+      ]
+    }
+  },
+  {
+    "name": "Spider Queen's Head",
+    "icon": "VisceraArakaalisHead",
+    "category": "Act7",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act7/VisceraArakaalisHead.webp",
+    "drops": [
+      "Act 7, Arakaali, Spinner of Shadows, The Temple of Decay Level 2",
+      "Armala, the Widow, Sunken City"
+    ],
+    "mods": {
+      "lesser": [
+        "2% increased Damage per Minion, up to a maximum of 40%"
+      ],
+      "normal": [
+        "3% increased Damage per Minion, up to a maximum of 40%"
+      ],
+      "greater": [
+        "Trigger Level 1 Lesser Raise Spiders on Kill"
+      ]
+    }
+  },
+  {
+    "name": "Dessicated Head",
+    "icon": "VisceraAberrationsHead",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraAberrationsHead.webp",
+    "drops": [
+      "Act 8, Towering Aberration, The Toxic Conduits"
+    ],
+    "mods": {
+      "lesser": [
+        "Raised Zombies deal (20-30)% increased Damage"
+      ],
+      "normal": [
+        "Raised Zombies deal (35-50)% increased Damage"
+      ],
+      "greater": [
+        "+(1-2) to maximum number of Raised Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Hag's Stomach",
+    "icon": "VisceraDoedreGuts",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraDoedreGuts.webp",
+    "drops": [
+      "Act 8, Doedre the Vile, Doedre's Cesspool",
+      "Portentia, the Foul, Waste Pool"
+    ],
+    "mods": {
+      "lesser": [
+        "(5-7)% increased Effect of your Curses"
+      ],
+      "normal": [
+        "(8-12)% increased Effect of your Curses"
+      ],
+      "greater": [
+        "(8-12)% increased Damage with Hits and Ailments per Curse on Enemy"
+      ]
+    }
+  },
+  {
+    "name": "Ghostly Claw",
+    "icon": "VisceraOndarClaw",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraOndarClaw.webp",
+    "drops": [
+      "Act 8, Ondar, the Betrayer, The Grand Promenade"
+    ],
+    "mods": {
+      "lesser": [
+        "(5-7)% chance to gain Elusive on Kill"
+      ],
+      "normal": [
+        "(8-12)% chance to gain Elusive on Kill"
+      ],
+      "greater": [
+        "(20-25)% increased Elusive Effect"
+      ]
+    }
+  },
+  {
+    "name": "Terrifying Maw",
+    "icon": "VisceraYugulMaw",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraYugulMaw.webp",
+    "drops": [
+      "Act 8, Yugul, Reflection of Terror, The High Gardens",
+      "Varhesh, Shimmering Aberration, Terrace"
+    ],
+    "mods": {
+      "lesser": [
+        "(20-30)% reduced Effect of Curses on you"
+      ],
+      "normal": [
+        "(35-50)% reduced Effect of Curses on you"
+      ],
+      "greater": [
+        "(8-12)% increased Damage per Curse on you"
+      ]
+    }
+  },
+  {
+    "name": "Armoured Leg",
+    "icon": "VisceraTituciusLegGuard",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraTituciusLegGuard.webp",
+    "drops": [
+      "Act 8, Hector Titucius, Eternal Servant, The Bath House",
+      "The Forgotten Soldier, Conservatory"
+    ],
+    "mods": {
+      "lesser": [
+        "+(8-12)% chance to Block Projectile Attack Damage"
+      ],
+      "normal": [
+        "+(15-20)% chance to Block Projectile Attack Damage"
+      ],
+      "greater": [
+        "Chance to Block Projectile Attack Damage is Lucky"
+      ]
+    }
+  },
+  {
+    "name": "Blackguard's Leg",
+    "icon": "VisceraMoonlitLeg",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraMoonlitLeg.webp",
+    "drops": [
+      "Act 8, Nightbringer Lucius, The Lunaris Concourse"
+    ],
+    "mods": {
+      "lesser": [
+        "(20-30)% reduced Effect of Chill on you"
+      ],
+      "normal": [
+        "(35-50)% reduced Effect of Chill on you"
+      ],
+      "greater": [
+        "Unaffected by Chilled Ground"
+      ]
+    }
+  },
+  {
+    "name": "Champion's Banner",
+    "icon": "VisceraLunarisChampionBanner",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraLunarisChampionBanner.webp",
+    "drops": [
+      "Act 8, Banner of Lunaris, The Lunaris Temple Level 1"
+    ],
+    "mods": {
+      "lesser": [
+        "Enemies near your Banner take (4-5)% increased Cold Damage"
+      ],
+      "normal": [
+        "Enemies near your Banner take (6-8)% increased Cold Damage"
+      ],
+      "greater": [
+        "Banners also grant 1% of Physical Damage gained as Extra Cold Damage to you and Allies"
+      ]
+    }
+  },
+  {
+    "name": "Lunar Bow",
+    "icon": "VisceraBowofLunaris",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraBowofLunaris.webp",
+    "drops": [
+      "Act 8, Dusk, Harbinger of Lunaris, The Lunaris Temple Level 2",
+      "Sebbert, Crescent's Point, Moon Temple"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% of Physical Damage Converted to Cold Damage"
+      ],
+      "normal": [
+        "(20-30)% of Physical Damage Converted to Cold Damage"
+      ],
+      "greater": [
+        "Gain (10-15)% of Physical Damage as Extra Cold Damage"
+      ]
+    }
+  },
+  {
+    "name": "Golden Ankh",
+    "icon": "VisceraAnkhofEternity",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraAnkhofEternity.webp",
+    "drops": [
+      "Act 8, Tolman, The Quay",
+      "Tolman, the Exhumer, Mausoleum"
+    ],
+    "mods": {
+      "lesser": [
+        "Raised Zombies have (18-24)% increased maximum Life"
+      ],
+      "normal": [
+        "Raised Zombies have (30-40)% increased maximum Life"
+      ],
+      "greater": [
+        "Regenerate (0.5-0.8)% of Life per second for each Raised Zombie"
+      ]
+    }
+  },
+  {
+    "name": "Gemling Torso",
+    "icon": "VisceraGemlingTorso",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraGemlingTorso.webp",
+    "drops": [
+      "Act 8, Gemling Captain, The Grain Gate",
+      "Captain Tanner Lightfoot, Coral Ruins"
+    ],
+    "mods": {
+      "lesser": [
+        "Items and Gems have (4-6)% reduced Attribute Requirements"
+      ],
+      "normal": [
+        "Items and Gems have (7-10)% reduced Attribute Requirements"
+      ]
+    }
+  },
+  {
+    "name": "Scarecrow's Pitchfork",
+    "icon": "VisceraScarecrowPitchfork",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraScarecrowPitchfork.webp",
+    "drops": [
+      "Act 8, Effigy of Fear, The Imperial Fields"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% chance to Cause Monsters to Flee"
+      ],
+      "normal": [
+        "(20-30)% chance to Cause Monsters to Flee"
+      ],
+      "greater": [
+        "Your chance to cause monsters to Flee on Hit is also chance to Terrify Monsters on Hit"
+      ]
+    }
+  },
+  {
+    "name": "Charred Leg",
+    "icon": "VisceraMoltenLeg",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraMoltenLeg.webp",
+    "drops": [
+      "Act 8, Regulus, Sun's Herald, The Solaris Concourse"
+    ],
+    "mods": {
+      "lesser": [
+        "(20-30)% reduced Ignite Duration on you"
+      ],
+      "normal": [
+        "(35-50)% reduced Ignite Duration on you"
+      ],
+      "greater": [
+        "Unaffected by Burning Ground"
+      ]
+    }
+  },
+  {
+    "name": "Sun-bleached Breastplate",
+    "icon": "VisceraSolarisChampionBreastplate",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraSolarisChampionBreastplate.webp",
+    "drops": [
+      "Act 8, The Sword of Lunaris, The Solaris Temple Level 1"
+    ],
+    "mods": {
+      "lesser": [
+        "Enemies near your Banner take (4-5)% increased Fire Damage"
+      ],
+      "normal": [
+        "Enemies near your Banner take (6-8)% increased Fire Damage"
+      ],
+      "greater": [
+        "Banners also grant 1% of Physical Damage gained as Extra Fire Damage to you and Allies"
+      ]
+    }
+  },
+  {
+    "name": "Resplendent Sceptre",
+    "icon": "VisceraSceptreofSolaris",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraSceptreofSolaris.webp",
+    "drops": [
+      "Act 8, Dawn, Harbinger of Solaris, The Solaris Temple Level 2",
+      "Jorus, Sky's Edge, Temple"
+    ],
+    "mods": {
+      "lesser": [
+        "+(7-10)% to Fire Damage over Time Multiplier with Attack Skills"
+      ],
+      "normal": [
+        "+(12-16)% to Fire Damage over Time Multiplier with Attack Skills"
+      ],
+      "greater": [
+        "Attacks have (20-30)% increased Ignite Duration"
+      ]
+    }
+  },
+  {
+    "name": "Solar Shield",
+    "icon": "VisceraSolarisShield",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraSolarisShield.webp",
+    "drops": [
+      "Act 9, Solaris, Eternal Sun, The Harbour Bridge",
+      "Ara, Sister of Light, Cold River"
+    ],
+    "mods": {
+      "lesser": [
+        "(3-4)% of Physical Damage from Hits taken as Fire Damage"
+      ],
+      "normal": [
+        "(5-6)% of Physical Damage from Hits taken as Fire Damage"
+      ],
+      "greater": [
+        "(10-15)% of Cold Damage from Hits taken as Fire Damage (10-15)% of Lightning Damage from Hits taken as Fire Damage"
+      ]
+    }
+  },
+  {
+    "name": "Crescent Blade",
+    "icon": "VisceraLunarisGlaive",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraLunarisGlaive.webp",
+    "drops": [
+      "Act 9, Lunaris, Eternal Moon, The Harbour Bridge",
+      "Khor, Sister of Shadows, Cold River"
+    ],
+    "mods": {
+      "lesser": [
+        "(3-4)% of Physical Damage from Hits taken as Cold Damage"
+      ],
+      "normal": [
+        "(5-6)% of Physical Damage from Hits taken as Cold Damage"
+      ],
+      "greater": [
+        "(10-15)% of Fire Damage from Hits taken as Cold Damage (10-15)% of Lightning Damage from Hits taken as Cold Damage"
+      ]
+    }
+  },
+  {
+    "name": "Smuggler's Hand",
+    "icon": "VisceraSmugglerHand",
+    "category": "Act8",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act8/VisceraSmugglerHand.webp",
+    "drops": [
+      "Act 9, Weapons Smuggler, The Hidden Underbelly"
+    ],
+    "mods": {
+      "lesser": [
+        "(5-7)% increased Quantity of Gold Dropped by Slain Enemies"
+      ],
+      "normal": [
+        "(8-12)% increased Quantity of Gold Dropped by Slain Enemies"
+      ],
+      "greater": [
+        "2% chance for a Coin Shower on Kill"
+      ]
+    }
+  },
+  {
+    "name": "Coagulated Essence",
+    "icon": "VisceraBloodClot",
+    "category": "Act9",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraBloodClot.webp",
+    "drops": [
+      "Act 9, Coagulation of Gore, The Blood Aqueduct"
+    ],
+    "mods": {
+      "lesser": [
+        "(20-30)% increased Damage while Bleeding"
+      ],
+      "normal": [
+        "(35-50)% increased Damage while Bleeding"
+      ],
+      "greater": [
+        "(30-40)% increased Damage while in Blood Stance"
+      ]
+    }
+  },
+  {
+    "name": "Gelid Fangs",
+    "icon": "VisceraFrozenFangs",
+    "category": "Act9",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraFrozenFangs.webp",
+    "drops": [
+      "Act 9, Chill of the Mountain, The Descent"
+    ],
+    "mods": {
+      "lesser": [
+        "Damage Penetrates (3-4)% Cold Resistance"
+      ],
+      "normal": [
+        "Damage Penetrates (6-8)% Cold Resistance"
+      ],
+      "greater": [
+        "Hits have (10-15)% chance to treat Enemy Monster Cold Resistance values as inverted"
+      ]
+    }
+  },
+  {
+    "name": "Desert Sword",
+    "icon": "VisceraSandySword",
+    "category": "Act9",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraSandySword.webp",
+    "drops": [
+      "Act 9, Messenger of the Desert, The Vastiri Desert",
+      "Preethi, Eye-Pecker, Desert"
+    ],
+    "mods": {
+      "lesser": [
+        "15% Global chance to Blind Enemies on hit"
+      ],
+      "normal": [
+        "30% Global chance to Blind Enemies on hit"
+      ],
+      "greater": [
+        "40% increased Damage with Hits and Ailments against Blinded Enemies"
+      ]
+    }
+  },
+  {
+    "name": "Scorpion Stinger",
+    "icon": "VisceraShakarisStinger",
+    "category": "Act9",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraShakarisStinger.webp",
+    "drops": [
+      "Act 9, Shakari, Queen of the Sands, The Oasis",
+      "Terror of the Infinite Drifts, Desert Spring"
+    ],
+    "mods": {
+      "lesser": [
+        "Poisons you inflict on non-Poisoned Enemies deal (40-60)% increased Damage"
+      ],
+      "normal": [
+        "Poisons you inflict on non-Poisoned Enemies deal (75-100)% increased Damage"
+      ],
+      "greater": [
+        "When you Poison a non-Poisoned target, also inflict (4-6) Withered debuffs, lasting 2 seconds"
+      ]
+    }
+  },
+  {
+    "name": "Lithic Haunches",
+    "icon": "VisceraRockyBullHooves",
+    "category": "Act9",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraRockyBullHooves.webp",
+    "drops": [
+      "Act 9, Boulderback, The Foothills"
+    ],
+    "mods": {
+      "lesser": [
+        "(7-10)% chance to Defend with 200% of Armour"
+      ],
+      "normal": [
+        "(12-16)% chance to Defend with 200% of Armour"
+      ],
+      "greater": [
+        "(10-15)% chance to Avoid Physical Damage from Hits"
+      ]
+    }
+  },
+  {
+    "name": "Chimeral Eye",
+    "icon": "VisceraBasiliskEye",
+    "category": "Act9",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraBasiliskEye.webp",
+    "drops": [
+      "Act 9, The Basilisk, The Boiling Lake",
+      "The Gorgon, Sulphur Vents"
+    ],
+    "mods": {
+      "lesser": [
+        "Petrification on you expires (80-120)% faster"
+      ],
+      "normal": [
+        "Petrification on you expires (150-200)% faster"
+      ],
+      "greater": [
+        "local display grant level x petrification statue [20]"
+      ]
+    }
+  },
+  {
+    "name": "Chaos Golem's Core",
+    "icon": "VisceraChaosGolemsCore",
+    "category": "Act9",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraChaosGolemsCore.webp",
+    "drops": [
+      "Act 9, Muruk the Awakened, The Tunnel",
+      "Avatar of Undoing, Geode"
+    ],
+    "mods": {
+      "lesser": [
+        "(4-5)% reduced Chaos Damage taken over time"
+      ],
+      "normal": [
+        "(6-7)% reduced Chaos Damage taken over time"
+      ],
+      "greater": [
+        "(8-10)% of Physical Damage over Time taken as Chaos Damage"
+      ]
+    }
+  },
+  {
+    "name": "Desert Queen's Crown",
+    "icon": "VisceraGarukhansCrown",
+    "category": "Act9",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraGarukhansCrown.webp",
+    "drops": [
+      "Act 9, Garukhan, Queen of the Winds, The Quarry",
+      "Stalker of the Endless Dunes, Dig"
+    ],
+    "mods": {
+      "lesser": [
+        "(20-30)% increased Damage while Blind"
+      ],
+      "normal": [
+        "(35-50)% increased Damage while Blind"
+      ],
+      "greater": [
+        "Enemies you Blind while in Sand Stance take (6-8)% increased Damage"
+      ]
+    }
+  },
+  {
+    "name": "Voltaic Skull",
+    "icon": "VisceraSteamPunkSkull",
+    "category": "Act9",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraSteamPunkSkull.webp",
+    "drops": [
+      "Act 9, General Adus, The Refinery",
+      "Pesquin, the Mad Baron, Factory"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% of Physical Damage Converted to Lightning Damage"
+      ],
+      "normal": [
+        "(20-30)% of Physical Damage Converted to Lightning Damage"
+      ],
+      "greater": [
+        "Gain (10-15)% of Physical Damage as Extra Lightning Damage"
+      ]
+    }
+  },
+  {
+    "name": "Flayed Arm",
+    "icon": "VisceraSinewArm",
+    "category": "Act9",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraSinewArm.webp",
+    "drops": [
+      "Act 9, Droolmaw, The Belly of the Beast"
+    ],
+    "mods": {
+      "lesser": [
+        "(5-7)% of Damage taken Recouped as Life"
+      ],
+      "normal": [
+        "(8-12)% of Damage taken Recouped as Life"
+      ],
+      "greater": [
+        "(10-15)% increased Life Recovery rate while Recouping Life"
+      ]
+    }
+  },
+  {
+    "name": "Inquisitor's Head",
+    "icon": "VisceraMaligaroHead",
+    "category": "Act9",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraMaligaroHead.webp",
+    "drops": [
+      "Act 9, The Depraved Trinity, The Black Heart",
+      "Amalgam of Nightmares, Carcass"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Witch's Head",
+    "icon": "VisceraShavronnesHead",
+    "category": "Act9",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraShavronnesHead.webp",
+    "drops": [
+      "Act 9, The Depraved Trinity, The Rotting Core",
+      "Amalgam of Nightmares, Carcass"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Hag's Head",
+    "icon": "VisceraDoedresHead",
+    "category": "Act9",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act9/VisceraDoedresHead.webp",
+    "drops": [
+      "Act 9, The Depraved Trinity, The Rotting Core",
+      "Amalgam of Nightmares, Carcass"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Diseased Wing",
+    "icon": "VisceraPlagueWings",
+    "category": "Act10",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraPlagueWings.webp",
+    "drops": [
+      "Act 10, Plaguewing, The Cathedral Rooftop",
+      "The Grey Plague, Lookout"
+    ],
+    "mods": {
+      "lesser": [
+        "+(6-8)% to Chaos Damage over Time Multiplier"
+      ],
+      "normal": [
+        "+(10-14)% to Chaos Damage over Time Multiplier"
+      ],
+      "greater": [
+        "+(20-30)% to Chaos Damage over Time Multiplier while Poisoned"
+      ]
+    }
+  },
+  {
+    "name": "Bloodied Arm",
+    "icon": "VisceraBloodiedArm",
+    "category": "Act10",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraBloodiedArm.webp",
+    "drops": [
+      "Aurel the Hungry?, ?"
+    ],
+    "mods": {
+      "lesser": [
+        "(5-7)% chance to Aggravate Bleeding on targets you Hit with Attacks"
+      ],
+      "normal": [
+        "(8-12)% chance to Aggravate Bleeding on targets you Hit with Attacks"
+      ],
+      "greater": [
+        "Bleeding Enemies you Kill Explode, dealing (2-3)% of their Maximum Life as Physical Damage"
+      ]
+    }
+  },
+  {
+    "name": "Prosthetic Leg",
+    "icon": "VisceraWickerLeg",
+    "category": "Act10",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraWickerLeg.webp",
+    "drops": [
+      "Act 10, Avarius, Reassembled, The Desecrated Chambers",
+      "Woad, Mockery of Man, Defiled Cathedral"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-12)% increased Ignite Duration on Enemies"
+      ],
+      "normal": [
+        "(15-20)% increased Ignite Duration on Enemies"
+      ],
+      "greater": [
+        "Ignites you inflict spread to other Enemies within a Radius of 1.5 metres"
+      ]
+    }
+  },
+  {
+    "name": "Distended Stomach",
+    "icon": "VisceraRegurgitatorStomach",
+    "category": "Act10",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraRegurgitatorStomach.webp",
+    "drops": [
+      "Act 10, The Unending Feast, The Canals"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% increased Damage if you have Consumed a corpse Recently"
+      ],
+      "normal": [
+        "(20-30)% increased Damage if you have Consumed a corpse Recently"
+      ],
+      "greater": [
+        "Eat a Soul when you Consume the corpse of a Rare Monster"
+      ]
+    }
+  },
+  {
+    "name": "Smouldering Leg",
+    "icon": "VisceraVilentasLeg",
+    "category": "Act10",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraVilentasLeg.webp",
+    "drops": [
+      "Act 10, Vilenta, The Control Blocks"
+    ],
+    "mods": {
+      "lesser": [
+        "Skills socketed in Equipped Boots have (6-8)% increased Mana Cost Efficiency"
+      ],
+      "normal": [
+        "Skills socketed in Equipped Boots have (10-14)% increased Mana Cost Efficiency"
+      ],
+      "greater": [
+        "(8-12)% increased bonuses gained from Equipped Boots"
+      ]
+    }
+  },
+  {
+    "name": "Broken Bust",
+    "icon": "VisceraKnowledgeableBust",
+    "category": "Act10",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraKnowledgeableBust.webp",
+    "drops": [
+      "Act 10, Living Knowledge, The Reliquary"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Osseous Scythe",
+    "icon": "VisceraBoneScythe",
+    "category": "Act10",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act10/VisceraBoneScythe.webp",
+    "drops": [
+      "Act 10, Bone Amalgam, The Ossuary"
+    ],
+    "mods": {
+      "lesser": [
+        "(8-12)% chance to Impale Enemies on Hit with Attacks"
+      ],
+      "normal": [
+        "(15-20)% chance to Impale Enemies on Hit with Attacks"
+      ],
+      "greater": [
+        "(15-20)% increased Impale Effect"
+      ]
+    }
+  },
+  {
+    "name": "Flaming Goat Hoof",
+    "icon": "VisceraFlamingGoatHooves",
+    "category": "Act6",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/Act6/VisceraFlamingGoatHooves.webp",
+    "drops": [
+      "Act 6, Abberath, the Cloven One, Prisoner's Gate",
+      "Mephod, the Earth Scorcher, Summit"
+    ],
+    "mods": {
+      "lesser": [
+        "(10-15)% increased Fire Damage"
+      ],
+      "normal": [
+        "(20-30)% increased Fire Damage"
+      ],
+      "greater": [
+        "1% increased Fire Damage per 20 Strength"
+      ]
+    }
+  },
+  {
+    "name": "Maven's Orrery",
+    "icon": "VisceraMavenOrrery",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraMavenOrrery.webp",
+    "drops": [
+      "The Maven, The Maven's Writ",
+      "Uber Maven, Reality Fragment"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Sirus' Head",
+    "icon": "VisceraSirusHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraSirusHead.webp",
+    "drops": [
+      "Sirus, Awakener of Worlds"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Incarnation of Dread's Head",
+    "icon": "VisceraDreadHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraDreadHead.webp",
+    "drops": [
+      "Incarnation of Dread, Echo of Reverence",
+      "Uber Dread, Reverent Fragment"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Incarnation of Neglect's Cube",
+    "icon": "VisceraNeglectCube",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraNeglectCube.webp",
+    "drops": [
+      "Incarnation of Neglect, Echo of Loneliness",
+      "Uber Neglect, Lonely Fragment"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Incarnation of Fear's Head",
+    "icon": "VisceraFearHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraFearHead.webp",
+    "drops": [
+      "Incarnation of Fear, Echo of Trauma",
+      "Uber Fear, Traumatic Fragment"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Searing Exarch's Descry",
+    "icon": "VisceraSearingExarchDescry",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraSearingExarchDescry.webp",
+    "drops": [
+      "The Searing Exarch, Incandescent Invitation",
+      "Uber Exarch, Blazing Fragment"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Eater of Worlds' Head",
+    "icon": "VisceraEaterofWorldsHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraEaterofWorldsHead.webp",
+    "drops": [
+      "Eater of Worlds, Screaming Invitation",
+      "Uber Eater, Devouring Fragment"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Elder's Head",
+    "icon": "VisceraElderHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraElderHead.webp",
+    "drops": [
+      "Uber Elder",
+      "Uber Uber Elder"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Shaper's Head",
+    "icon": "VisceraShapersHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraShapersHead.webp",
+    "drops": [
+      "The Shaper",
+      "Uber Elder",
+      "Uber Shaper",
+      "Uber Uber Elder"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Venarius' Scripture",
+    "icon": "VisceraVenariusScripture",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraVenariusScripture.webp",
+    "drops": [
+      "Venarius, Cortex",
+      "Venarius, Replica Cortex",
+      "Uber Venarius, Synthesising Fragment"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Minotaur's Head",
+    "icon": "VisceraMinotaurHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraMinotaurHead.webp",
+    "drops": [
+      "Guardian of the Minotaur, Maze of the Minotaur"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Hydra's Head",
+    "icon": "VisceraHydraHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraHydraHead.webp",
+    "drops": [
+      "Guardian of the Hydra, Pit of the Hydra"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Chimera's Head",
+    "icon": "VisceraChimeraHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraChimeraHead.webp",
+    "drops": [
+      "Guardian of the Chimera, Lair of the Chimera"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Phoenix's Head",
+    "icon": "VisceraPhoenixHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraPhoenixHead.webp",
+    "drops": [
+      "Guardian of the Phoenix, Forge of the Phoenix"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Constrictor's Head",
+    "icon": "VisceraConstrictorHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraConstrictorHead.webp",
+    "drops": [
+      "The Constrictor"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Purifier's Head",
+    "icon": "VisceraPurifierHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraPurifierHead.webp",
+    "drops": [
+      "The Purifier"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Enslaver's Head",
+    "icon": "VisceraEnslaverHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraEnslaverHead.webp",
+    "drops": [
+      "The Enslaver"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Eradicator's Head",
+    "icon": "VisceraEradicatorHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraEradicatorHead.webp",
+    "drops": [
+      "The Eradicator"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Baran's Head",
+    "icon": "VisceraBaranHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraBaranHead.webp",
+    "drops": [
+      "Baran, the Crusader"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Veritania's Head",
+    "icon": "VisceraVeritaniaHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraVeritaniaHead.webp",
+    "drops": [
+      "Veritania, the Redeemer"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Drox's Head",
+    "icon": "VisceraDroxHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraDroxHead.webp",
+    "drops": [
+      "Drox, the Warlord"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Al-Hezmin's Head",
+    "icon": "VisceraAlHezminsHead",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraAlHezminsHead.webp",
+    "drops": [
+      "Al-Hezmin, the Hunter"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Pit Fighter's Helm",
+    "icon": "VisceraGladiatorHelmet",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraGladiatorHelmet.webp",
+    "drops": [
+      "Bringer of Blood, Racecourse"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Lion's Claws",
+    "icon": "VisceraLionClaw",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraLionClaw.webp",
+    "drops": [
+      "Shredder of Gladiators, Racecourse"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Bat's Wings",
+    "icon": "VisceraBatWings",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraBatWings.webp",
+    "drops": [
+      "Act 4, Voidscream, The Mines Level 2"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Nightmarish Book of Depravity",
+    "icon": "VisceraBookofDepravity",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraBookofDepravity.webp",
+    "drops": [
+      "Nightmare of the Depraved Trinity, Abomination"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Nightmarish Head of Uhtred",
+    "icon": "VisceraHeadofUhtred",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraHeadofUhtred.webp",
+    "drops": [
+      "Nightmare of Uhtred, Citadel"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Nightmarish Core of the Unbreakable",
+    "icon": "VisceraCoreoftheUnbreakable",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraCoreoftheUnbreakable.webp",
+    "drops": [
+      "Nightmare of the Unbreakable, Fortress"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Nightmarish Wings of Lycia",
+    "icon": "VisceraWingsofLycia",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraWingsofLycia.webp",
+    "drops": [
+      "Nightmare of Lycia, Sanctuary"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Nightmarish Wings of Catarina",
+    "icon": "VisceraWingsofCatarina",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraWingsofCatarina.webp",
+    "drops": [
+      "Nightmare of Catarina, Ziggurat"
+    ],
+    "mods": {}
+  },
+  {
+    "name": "Coven Queen's Crown",
+    "icon": "VisceraAuguryLeagueBoss",
+    "category": "PinnacleAndMapBosses",
+    "img": "https://cdn.poedb.tw/image/Art/2DItems/Viscera/PinnacleAndMapBosses/VisceraAuguryLeagueBoss.webp",
+    "drops": [
+      "The Coven Queen, Tenebria"
+    ],
+    "mods": {}
+  }
+]
